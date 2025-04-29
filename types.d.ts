@@ -13,3 +13,5 @@ interface Book {
   summary: string;
   isLoanedBook?: boolean;
 }
+
+//  id, title, author, genre, rating, totalCopies, availableCopies, description, coverColor, coverUrl, videoUrl, summary, isLoanedBook
